@@ -3,6 +3,14 @@
   padding: 0;
 }
 
+.attribution {
+  font-size: 11px;
+  text-align: center;
+}
+.attribution a {
+  color: hsl(228, 45%, 44%);
+}
+
 body {
   color: hsl(228, 12%, 48%);
   background-color: hsl(30, 38%, 92%);
