@@ -36,7 +36,10 @@ svg {
   display: flex;
   flex-direction: row;
   margin: 150px auto;
+<<<<<<< HEAD
   height: 30rem;
+=======
+>>>>>>> dd6fa4d238ec5b35f3c12244e36bd032681b2778
   width: 40rem;
 }
 
