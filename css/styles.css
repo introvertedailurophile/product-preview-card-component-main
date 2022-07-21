@@ -43,7 +43,9 @@ svg {
 .left {
   width: 50%;
 }
+
 .image {
+  width: 20rem;
   object-fit: cover;
   border-top-left-radius: 10px;
   border-bottom-left-radius: 10px;
